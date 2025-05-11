@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ae8d7568-a0bc-4c06-ab3a-7afb938940b9",
+    "bookID": "b33ba59d-6c3e-46ac-99a8-67cf4935e2db",
+    "section": "reading"
+  },
+  {
+    "id": "38955738-4295-47ad-82cb-b6c23a91b6e6",
+    "bookID": "49c913e3-b58f-4a36-8c25-7b8173a83603",
+    "section": "reading"
+  },
+  {
+    "id": "82d51a92-7a53-4c02-a937-9d64254c850c",
+    "bookID": "ca11a369-d742-45fb-9f36-a35770773c61",
+    "section": "planToRead"
+  },
+  {
+    "id": "eda5a583-36e3-4ac4-b30c-4e96a9a1fb1f",
+    "bookID": "3680f082-9c0e-4336-96e6-febe9874d533",
+    "section": "completed"
+  },
+  {
+    "id": "cd6e9558-cf03-410b-a110-7466adc1b7e0",
+    "bookID": "ae71d4ed-4310-4ce5-850b-4f22804b10f3",
+    "section": "completed"
+  },
+  {
+    "id": "95d335d6-f6b3-430a-8b05-849caef3947c",
+    "bookID": "cc66b816-2767-40ae-9d64-af2eab4592e4",
+    "section": "planToRead"
+  },
+  {
+    "id": "43775d92-af4d-4778-a616-659050f1e420",
+    "bookID": "b3fa6de2-0541-4034-85e6-72b76240f535",
+    "section": "planToRead"
+  },
+  {
+    "id": "115617e0-4ab0-4237-b184-421c24fa5fca",
+    "bookID": "66dfa8c2-ded9-40dd-8e25-2dbb76cf947e",
+    "section": "reading"
+  }
+]
