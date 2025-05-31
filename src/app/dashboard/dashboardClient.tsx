@@ -10,7 +10,6 @@ import UpdateDashboardEntryModal from "@/components/addUpdateDashboardEntryModal
 
 export default function DashboardClient() {
   type DashboardStatus = "success" | "error" | "loading";
-  //type ActiveState = "reading" | "planToRead" | "completed";
 
   const [active, setActive] = useState<Section>("reading");
   const [results, setResults] = useState<{

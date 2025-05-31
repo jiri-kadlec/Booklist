@@ -186,8 +186,6 @@ export default function DatabaseClient() {
                   <button
                     disabled={!addableBooks.includes(book.id)}
                     onClick={() => {
-                      // Button logic here
-                      console.log("Book ID:", book.id); //debugging only, remove later
                       setSelectedBookID(book.id);
                       setPageCount(book.pageCount);
                       setAddDashboardEntryShow(true);
